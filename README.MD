@@ -1,5 +1,5 @@
-#webkit-sass-generators
-> Webkit sass generator mixins.
+#web-sass-generators
+> web sass generator mixins.
 
 ## usage:
 ```sass
