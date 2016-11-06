@@ -1,0 +1,24 @@
+{
+  "name": "web-sass-generators",
+  "description": "Web sass generator mixins.",
+  "main": "dist/web-sass-generators.scss",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/webkit-sass-generators",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}
